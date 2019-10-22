@@ -27,5 +27,8 @@ Casual diaryは、LINE上で日記の記録・共有ができるプラットフ�
 |---|---|
 |![](about/screenshot_1.png)|![](about/screenshot_2.jpg)|
 
+### アーキテクチャ図
+- https://www.draw.io/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=diary.xml#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1DoGvK5VP6rdO7hJg3kF95bWJuI2k0kml%26export%3Ddownload
+
 ### Link
 - https://protopedia.net/prototype/36d7534290610d9b7e9abed244dd2f28
